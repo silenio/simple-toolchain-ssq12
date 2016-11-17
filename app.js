@@ -1,7 +1,7 @@
 /*eslint-env node*/
 
 //------------------------------------------------------------------------------
-// hello world app is based on node.js starter application for Bluemix
+// hello world app Silenio is based on node.js starter application for Bluemix
 //------------------------------------------------------------------------------
 
 // This application uses express as its web server
